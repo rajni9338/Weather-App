@@ -1,0 +1,24 @@
+body{
+    background-color:black;
+}
+
+.container{
+    background-color: orange;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+    width: 20%;
+    padding: 10px;
+}
+
+.app_title p, .temprature_value, .location, .temperature_description{
+    text-align: center;
+    font-size: large;
+    font-weight: 700;
+    color: white;
+}
+
+.weather_icon{
+    text-align: center;
+}
